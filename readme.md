@@ -1,4 +1,4 @@
-# This project uses github api to fetch user data to view users data and Api
+# This project uses github api to fetch user data to and repos
 
 ## Usage
 
